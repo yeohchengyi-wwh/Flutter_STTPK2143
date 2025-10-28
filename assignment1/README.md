@@ -4,7 +4,7 @@ Trip Fuel Cost Estimator is a simple flutter application that helps users calcul
 
 
 Inputs
-	Distance(km) is a text field that can be entered by user to represent the total travel distance
+	- 【Distance(km) is a text field that can be entered by user to represent the total travel distance】
 	Fuel Efficiency (km/L) is a text field that can be entered by user to show how many kilometres the vehicle can travel per litre fuel
 	Fuel Type is selected by forming a drop-down menu which conduct RON95, RON97 and diesel. The corresponding fuel price (RM/L) is automatically displayed by side based on the selected fuel type that write in Map.
 
@@ -18,7 +18,7 @@ EstimatedCost=  Distance/Efficiency  x Price
 	Outputs displayed clearly in a styled Container
 	The selected fuel type and final estimated cost is showed
 	Button option to reset all fields including output section to start a new calculation  
-
+ 
        Widget list used:
 
 	Text
@@ -44,24 +44,8 @@ Basic validation approach
 	This will ensure that only valid numeric values are used in the formula:
 EstimatedCost=  Distance/Efficiency  x Price
 
-	After the validation process passes, the application will update the User Interface with the calculated output using setState()
+After the validation process passes, the application will update the User Interface with the calculated output using setState()
 
-Splash Page
- 
-Home Page Before 
- 
-
-
-
-
-Home Page after Calculation
- 
-
-
- 
-Home Page Before 
- 
-Home Page after Calculation
  
 
 
