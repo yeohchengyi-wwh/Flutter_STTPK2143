@@ -63,17 +63,17 @@ Basic Validation Approach
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/WangWangGiao/my-project-assets/blob/main/Spinpro_SS.png?raw=true" alt="SplashScreen" width="250"/>
+      <img src="https://github.com/yeohchengyi-wwh/Image_Project/blob/main/SplashScreen_Fuel.png" alt="SplashPage" width="250"/>
       <br>
       <b>SplashScreen</b>
     </td>
     <td align="center">
-      <img src="https://github.com/WangWangGiao/my-project-assets/blob/main/Spinpro_HomeBefore.png?raw=true" alt="HomeBefore" width="250"/>
+      <img src="https://github.com/yeohchengyi-wwh/Image_Project/blob/main/HomePage_Fuel.png" alt="HomePage Before" width="250"/>
       <br>
       <b>Home Before</b>
     </td>
     <td align="center">
-      <img src="https://github.com/WangWangGiao/my-project-assets/blob/main/Spinpro_HomeAfterCalculation.png?raw=true" alt="HomeAfterCalculation" width="250"/>
+      <img src="https://github.com/yeohchengyi-wwh/Image_Project/blob/main/HomePage_FuelCalculations.png" alt="HomePageAfterCalculation" width="250"/>
       <br>
       <b>Home After Calculation</b>
     </td>
